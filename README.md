@@ -6,7 +6,7 @@
 
 ## 💻 Technical Skills
 - **Languages**: Python, PHP, JavaScript, and currently learning C++
-- **Quantum Frameworks**: Qiskit, QuTiP
+- **Quantum Frameworks**: Qiskit, QuTiP, and currently learning cuQuantum
 - **Backend**: Laravel, Lumen, Yii2, and currently learning Django
 - **Other tools**: Currently learning Next.js
 ## 🔬 Research Interests
